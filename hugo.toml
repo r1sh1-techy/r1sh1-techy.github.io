@@ -2,6 +2,7 @@ baseURL = 'https://r1sh1-techy.github.io//'
 languageCode = 'en-us'
 title = 'Rishav Das'
 theme = "mana"
+publishDir = "docs"
 
 [params]
   description = "This is one of my first fun little projects and definitely learnt a lot from it | Posting Blogs about whatever gathers my Interest | Enjoy your Stay <3 |"
